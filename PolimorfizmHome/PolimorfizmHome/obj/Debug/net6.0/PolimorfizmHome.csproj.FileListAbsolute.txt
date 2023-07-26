@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\bin\Debug\net6.0\PolimorfizmHome.exe
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\bin\Debug\net6.0\PolimorfizmHome.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\bin\Debug\net6.0\PolimorfizmHome.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\bin\Debug\net6.0\PolimorfizmHome.dll
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\bin\Debug\net6.0\PolimorfizmHome.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.dll
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\refint\PolimorfizmHome.dll
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\PolimorfizmHome.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Polimorfizm\Homework\PolimorfizmHome\PolimorfizmHome\obj\Debug\net6.0\ref\PolimorfizmHome.dll
